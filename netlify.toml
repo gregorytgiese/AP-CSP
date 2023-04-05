@@ -8,7 +8,7 @@ LANDING_BUTTON = "View table of contents"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "And you will too"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "apcsp-toc"
+LANDING_PAGE = "0-apcsp-toc"
 # (Optional) Site title on landing page
 LANDING_TITLE = "I love obsidian-zola! 💖"
 PYTHON_VERSION = "3.8"
